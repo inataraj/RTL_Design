@@ -1,7 +1,0 @@
-
-Team_member1: Indrajith Natarajan
-mailid: inataraj@usc.edu
-
-
-Team_member2: Asma Nazeer
-mailid: nazeer@usc.edu
